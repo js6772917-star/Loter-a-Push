@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482946725864",
+    "project_id": "loterua-push",
+    "storage_bucket": "loterua-push.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482946725864:android:f0a8161e3ac4879e6b965d",
+        "android_client_info": {
+          "package_name": "com.example.loteria_push"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm4Q1tc9SqK3tCMNvWGLNJ2L3n-Jtwuyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
